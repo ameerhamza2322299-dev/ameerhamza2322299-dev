@@ -23,6 +23,12 @@ I'm a passionate Artificial Intelligence student at the University of Peshawar. 
 - Problem Solving
 - Artificial Intelligence Fundamentals
 - Object-Oriented Programming (OOP)
+- ## 🛠️ Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -41,6 +47,7 @@ I'm a passionate Artificial Intelligence student at the University of Peshawar. 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameerhamza2322299-dev&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerhamza2322299-dev&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=ameerhamza2322299-dev&theme=tokyonight)
 
 ---
 
