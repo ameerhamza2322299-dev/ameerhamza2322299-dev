@@ -1,26 +1,34 @@
-# Hi there 👋, I'm Ameer Hamza
+# 👋 Hi, I'm Ameer Hamza
 
-## 🎓 BS Artificial Intelligence Student
-I'm a passionate Artificial Intelligence student at the University of Peshawar. I enjoy learning new technologies, solving programming problems, and building projects with Python.
+<h3 align="center">🎓 BS Artificial Intelligence Student | 🐍 Python Learner | 🚀 Future AI Engineer</h3>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🎓 BS Artificial Intelligence Student
-- 🐍 Python Developer
-- 🤖 Learning Artificial Intelligence
-- 🧠 Interested in Machine Learning & Deep Learning
-- 💻 Building Python Projects
+- 🎓 BS Artificial Intelligence Student at University of Peshawar
+- 🐍 Currently learning Python Programming
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 💡 Love solving programming problems
+- 🚀 Building beginner Python projects
 - 🌱 Learning something new every day
 
 ---
-- ## 🛠️ Skills
+
+## 🛠 Skills
+
+<p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+![AI](https://img.shields.io/badge/Artificial_Intelligence-6A1B9A?style=for-the-badge)
+![OOP](https://img.shields.io/badge/Object_Oriented_Programming-FF9800?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-4CAF50?style=for-the-badge)
+
+</p>
 
 ---
 
@@ -33,11 +41,8 @@ I'm a passionate Artificial Intelligence student at the University of Peshawar. 
 - 🌍 Contribute to Open Source
 
 ---
-## 📊 GitHub Stats
 
-![Ameer Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameerhamza2322299-dev&show_icons=true&theme=tokyonight&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerhamza2322299-dev&layout=compact&theme=tokyonight)
+## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ameerhamza2322299-dev&theme=tokyonight)
 
@@ -45,8 +50,15 @@ I'm a passionate Artificial Intelligence student at the University of Peshawar. 
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/ameerhamza2322299-dev
+- 💻 GitHub: https://github.com/ameerhamza2322299-dev
+- 📧 Email: ameerhamza2322299@gmail.com
 
 ---
 
-⭐ **"Keep Learning, Keep Building, Keep Growing."**
+## 💬 Favorite Quote
+
+> **"Keep Learning. Keep Building. Keep Growing." 🌟**
+
+---
+
+⭐ Thanks for visiting my profile!
