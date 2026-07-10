@@ -33,7 +33,6 @@ I'm a passionate Artificial Intelligence student at the University of Peshawar. 
 - 🌍 Contribute to Open Source
 
 ---
-
 ## 📊 GitHub Stats
 
 ![Ameer Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameerhamza2322299-dev&show_icons=true&theme=tokyonight&cache_seconds=1800)
