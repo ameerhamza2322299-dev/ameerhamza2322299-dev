@@ -15,14 +15,6 @@ I'm a passionate Artificial Intelligence student at the University of Peshawar. 
 - 🌱 Learning something new every day
 
 ---
-
-## 🛠️ Skills
-
-- Python
-- Git & GitHub
-- Problem Solving
-- Artificial Intelligence Fundamentals
-- Object-Oriented Programming (OOP)
 - ## 🛠️ Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
