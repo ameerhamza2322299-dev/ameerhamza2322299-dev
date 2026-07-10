@@ -36,9 +36,10 @@ I'm a passionate Artificial Intelligence student at the University of Peshawar. 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameerhamza2322299-dev&show_icons=true&theme=tokyonight)
+![Ameer Hamza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameerhamza2322299-dev&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ameerhamza2322299-dev&layout=compact&theme=tokyonight)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=ameerhamza2322299-dev&theme=tokyonight)
 
 ---
