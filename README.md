@@ -43,8 +43,7 @@
 ---
 
 ## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ameerhamza2322299-dev&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ameerhamza2322299-dev&theme=tokyonight)
 
 ---
 
@@ -61,4 +60,5 @@
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile! 
+
