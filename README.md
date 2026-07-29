@@ -35,8 +35,7 @@
 <h3 align="center">🛠️ Tools & Technologies</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,vscode,github,git,figma,linux,html,css" height="70" />
-  I[![My Skills](https://skillicons.dev/icons?i=python,vscode,github,git,figma,linux,html,css)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=python,capcut,,vscode,github,git,figma,linux,html,css" height="70" />
 </p> 
 
 ## 🎯 Current Goals
