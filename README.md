@@ -41,36 +41,27 @@ Update my GitHub Profile README by adding a new section titled:
 
 Update my GitHub Profile README by adding a new section titled:
 
-## 🌐 Social Media Accounts
+Update my GitHub Profile README by adding a new section titled:
 
-Add only four official clickable Shields.io "for-the-badge" badges in a single horizontal row.
+Add ONLY the Markdown code for a new section in my GitHub README.
 
-Use these profile links:
+Title:
+## 🌐 Social Media
 
-🎵 TikTok
-https://tiktok.com/@hamza_ktk_official
+Under this title, display ONLY four official Shields.io "for-the-badge" clickable badges in a single horizontal row.
 
-📷 Instagram
-https://www.instagram.com/ameerhamza69_/
+Do NOT display the words "TikTok", "Instagram", "Facebook", or "LinkedIn" as plain text outside the badges.
+Do NOT write any instructions, requirements, explanations, bullet points, or descriptions.
+Do NOT include any extra text before or after the badges.
 
-📘 Facebook
-https://www.facebook.com/share/1G7sQjK1iK/
+Use these links:
 
-💼 LinkedIn
-https://linkedin.com/in/ameer-hamza-5722a5424/
+TikTok: https://tiktok.com/@hamza_ktk_official
+Instagram: https://www.instagram.com/ameerhamza69_/
+Facebook: https://www.facebook.com/share/1G7sQjK1iK/
+LinkedIn: https://linkedin.com/in/ameer-hamza-5722a5424/
 
-Requirements:
-- Use the official TikTok app logo.
-- Use the official Instagram app logo.
-- Use the official Facebook app logo.
-- Use the official LinkedIn app logo.
-- Make every badge fully clickable.
-- Display all four badges in one horizontal row.
-- Keep the design clean, premium, modern, and developer-style.
-- Add this section above the existing "📬 Contact With Me" section.
-- Do NOT create another "Contact With Me" section.
-- Do NOT modify any other part of the README.
-- Return only the final Markdown code ready to paste into my GitHub README.
+Return ONLY the final Markdown code ready to paste into my GitHub README.
 
 ## 🎯 Current Goals
 
