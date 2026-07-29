@@ -36,7 +36,8 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,vscode,github,git,figma,linux,html,css" height="70" />
-</p> [![My Skills](https://skillicons.dev/icons?i=python,vscode,github,git,figma,linux,html,css,capcut)](https://skillicons.dev)
+  I[![My Skills](https://skillicons.dev/icons?i=python,vscode,github,git,figma,linux,html,css)](https://skillicons.dev)
+</p> 
 
 ## 🎯 Current Goals
 
