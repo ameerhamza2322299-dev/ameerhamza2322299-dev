@@ -1,155 +1,331 @@
-Also make this README look like a premium senior developer profile.
+Act as a world-class Senior GitHub Profile Designer, UI/UX Expert, and Markdown Expert.
+
+Create a COMPLETE premium GitHub Profile README.md for me.
+
+Return ONLY the README.md code.
+Do NOT explain anything.
+Do NOT write normal paragraphs outside the README.
+
+════════════════════════════════════
+
+My Information
+
+Name: Ameer Hamza
+
+Title:
+🐍 Python Developer | 🤖 AI Student | 🚀 Future AI Engineer
+
+Education:
+BS Artificial Intelligence Student
+
+Country:
+Pakistan 🇵🇰
+
+════════════════════════════════════
+
+The README must look like a Top 1% GitHub profile used by professional AI Engineers and Software Developers.
 
 Requirements:
 
-✅ Use a modern black, blue and cyan color theme.
+• Modern premium design
+• Large centered headings
+• Beautiful spacing
+• Professional icons
+• Colorful shields.io badges
+• SVG animations
+• Typing animation
+• Responsive layout
+• Recruiter-friendly
+• ATS-friendly
+• Clean GitHub Markdown only
+• No plain boring text
+• Everything visually attractive
+• Every section centered
+• Every heading must have a matching emoji and icon
+• Use official logos whenever possible
 
-✅ Every section must have a beautiful emoji and matching icon.
+════════════════════════════════════
 
-✅ Use large colorful shields.io badges wherever possible.
+Create these sections in this exact order.
 
-✅ Keep everything perfectly aligned.
+# 👋 Animated Hero Banner
 
-✅ Make the layout clean and responsive.
+Large animated wave banner.
 
-✅ Use GitHub-supported Markdown only.
+Large typing animation.
 
---------------------------------------------------
+Centered profile picture placeholder.
 
-Include these sections in this exact order:
+Big welcome title:
 
-👋 Hero Banner
+Hi 👋 I'm Ameer Hamza
 
-💡 About Me
+Below it:
 
-🚀 Skills
+🐍 Python Developer
 
-🛠 Apps & Technologies
+🤖 AI Student
 
-🎯 Current Goals
+🚀 Future AI Engineer
 
-📚 Currently Learning
+Add a short professional tagline.
 
-🗺 Learning Roadmap
+════════════════════════════════════
 
-🏆 Certifications (Placeholder)
+# 🙋 About Me
 
-📂 Featured Projects
+Professional introduction with attractive icons.
 
-📈 GitHub Analytics
+Mention that I am passionate about
 
-🔥 GitHub Streak
+Python
 
-📊 Top Languages
+Artificial Intelligence
 
-📉 Contribution Graph
+Machine Learning
 
-🐍 Contribution Snake Animation
+Deep Learning
 
-🏅 GitHub Trophies
+Generative AI
 
-⏱ Coding Activity (Placeholder)
+Open Source
 
-🌟 Achievements
+Problem Solving
 
-🤝 Connect With Me
+Continuous Learning
 
-🌐 Social Media
+════════════════════════════════════
 
-☕ Fun Facts
+# 🚀 Skills
 
-💭 Personal Motto
+Create beautiful colorful shields.io badges.
 
-❤️ Support My Work
+Include:
 
-👀 Visitor Counter
+Python
 
-🙏 Thanks For Visiting Footer
+Git
 
---------------------------------------------------
+GitHub
 
-For the "Apps & Technologies" section, show large colorful official icons/badges for:
+VS Code
 
-🐍 Python
+Figma
 
-💻 Visual Studio Code
+UI/UX Design
 
-🐙 GitHub
+App Design
 
-🌿 Git
+Artificial Intelligence
 
-🎨 Figma
+Machine Learning
 
-🤖 Gemini AI
+Deep Learning
 
-✨ Magnific AI
+Generative AI
 
-🎬 CapCut
+Linux
 
-💼 LinkedIn
+Markdown
 
-🖥 Windows
+Photo Editing
 
-🐧 Linux
+Video Editing
 
-📝 Markdown
+════════════════════════════════════
 
-Use official logos whenever available.
+# 🛠 Apps & Technologies
 
---------------------------------------------------
+Display LARGE official colorful icons for
 
-For the Social Media section, use large clickable icons with labels for:
+Python
 
-📘 Facebook
+Visual Studio Code
 
-📸 Instagram
+GitHub
 
-🎵 TikTok
+Git
 
-💼 LinkedIn
+Figma
 
-🐙 GitHub
+Gemini AI
 
-📧 Email
+Magnific AI
 
---------------------------------------------------
+CapCut
 
-Replace the common quote with a unique personal motto.
+LinkedIn
 
-Use this instead:
+Windows
 
-💭 "Every line of code I write today is a step toward building intelligent solutions for tomorrow."
+Linux
 
---------------------------------------------------
+Markdown
 
-In the Fun Facts section use:
+Arrange them beautifully.
 
-💡 I enjoy solving real-world problems with code.
+════════════════════════════════════
 
-🤖 Artificial Intelligence inspires me every day.
+# 📚 Currently Learning
 
-📚 Learning is my daily habit.
+Professional cards.
 
-🚀 I believe consistency beats talent.
+════════════════════════════════════
 
-☕ I love building projects that improve my skills.
+# 🎯 Current Goals
 
---------------------------------------------------
+Master Python
 
-For Featured Projects, create attractive project cards with badges and placeholders.
+Master OOP
 
---------------------------------------------------
+Master DSA
 
-Make all GitHub widgets centered.
+Learn Machine Learning
 
---------------------------------------------------
+Learn Deep Learning
 
-Do not allow icons to overlap with any heading.
+Learn Generative AI
 
-Maintain proper spacing between every section.
+Build AI Agents
 
-Use premium styling throughout the README.
+Build Chatbots
 
-The final README should look professional, modern, attractive, recruiter-friendly, and portfolio-quality.
-Return only the complete README.md code.
+Master Linux
 
+Contribute to Open Source
+
+Upload Projects Weekly
+
+Become AI Engineer
+
+════════════════════════════════════
+
+# 🗺 AI Learning Roadmap
+
+Beautiful roadmap with progress indicators.
+
+════════════════════════════════════
+
+# 📂 Featured Projects
+
+Create beautiful project cards for
+
+Temperature Converter
+
+Student Grade Analyzer
+
+Percentage Finder
+
+Profit & Loss Calculator
+
+Largest Number Finder
+
+Odd Even Checker
+
+Divisibility Checker
+
+Volume of Sphere Calculator
+
+Future AI Projects
+
+════════════════════════════════════
+
+# 📊 GitHub Dashboard
+
+Include
+
+GitHub Stats
+
+GitHub Streak
+
+Top Languages
+
+Contribution Graph
+
+Snake Animation
+
+GitHub Trophy
+
+Achievements
+
+Profile Views Counter
+
+Followers
+
+Following
+
+════════════════════════════════════
+
+# 📜 Certifications
+
+Professional placeholder cards.
+
+════════════════════════════════════
+
+# 🤝 Connect With Me
+
+Professional contact cards with placeholders for
+
+Email
+
+GitHub
+
+LinkedIn
+
+════════════════════════════════════
+
+# 🌐 Social Media
+
+Large colorful official icons with clickable links for
+
+Facebook
+
+Instagram
+
+TikTok
+
+LinkedIn
+
+GitHub
+
+════════════════════════════════════
+
+# ☕ Fun Facts
+
+Beautiful icon cards.
+
+════════════════════════════════════
+
+# 💭 Personal Motto
+
+Use this unique quote:
+
+"Every challenge is another opportunity to learn, build, and create technology that makes a difference."
+
+════════════════════════════════════
+
+# ❤️ Support My Work
+
+Professional GitHub star section.
+
+════════════════════════════════════
+
+# 👀 Visitor Counter
+
+════════════════════════════════════
+
+# 🙏 Premium Footer
+
+Animated footer with wave effect.
+
+════════════════════════════════════
+
+IMPORTANT
+
+• Use only GitHub-supported Markdown.
+• Do NOT use simple text.
+• Use badges, icons, SVG animations and widgets wherever possible.
+• Make it look like a premium AI Engineer portfolio.
+• Do NOT skip any section.
+• Everything must be centered, clean, colorful and professional.
+• Return ONLY the complete README.md code.
