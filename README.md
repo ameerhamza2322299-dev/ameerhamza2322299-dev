@@ -37,32 +37,25 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,vscode,github,git,figma,linux,html,css" height="70" />
 </p> 
-Update my GitHub Profile README by adding a new section titled:
-
-Update my GitHub Profile README by adding a new section titled:
-
-Update my GitHub Profile README by adding a new section titled:
-
-Add ONLY the Markdown code for a new section in my GitHub README.
-
-Title:
 ## 🌐 Social Media
 
-Under this title, display ONLY four official Shields.io "for-the-badge" clickable badges in a single horizontal row.
+<p align="left">
+  <a href="https://tiktok.com/@hamza_ktk_official" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
 
-Do NOT display the words "TikTok", "Instagram", "Facebook", or "LinkedIn" as plain text outside the badges.
-Do NOT write any instructions, requirements, explanations, bullet points, or descriptions.
-Do NOT include any extra text before or after the badges.
+  <a href="https://www.instagram.com/ameerhamza69_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 
-Use these links:
+  <a href="https://www.facebook.com/share/1G7sQjK1iK/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 
-TikTok: https://tiktok.com/@hamza_ktk_official
-Instagram: https://www.instagram.com/ameerhamza69_/
-Facebook: https://www.facebook.com/share/1G7sQjK1iK/
-LinkedIn: https://linkedin.com/in/ameer-hamza-5722a5424/
-
-Return ONLY the final Markdown code ready to paste into my GitHub README.
-
+  <a href="https://linkedin.com/in/ameer-hamza-5722a5424/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 ## 🎯 Current Goals
 
 - ✅ Master Python
