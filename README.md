@@ -37,6 +37,34 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,vscode,github,git,figma,linux,html,css" height="70" />
 </p> 
+Update my GitHub Profile README by adding a new section titled:
+
+## 🌐 Connect With Me
+
+Create a clean, modern, and professional layout using clickable badges/icons. Each badge should open the corresponding social media profile when clicked.
+
+Use the following accounts:
+
+🎵 TikTok
+https://tiktok.com/@hamza_ktk_official
+
+📸 Instagram
+https://www.instagram.com/ameerhamza69_/
+
+📘 Facebook
+https://www.facebook.com/share/1G7sQjK1iK/
+
+💼 LinkedIn
+(Use my existing LinkedIn profile link already present in my GitHub README. Do not change it.)
+
+Requirements:
+- Use Shields.io "for-the-badge" style badges.
+- Keep all badges aligned in a single horizontal row.
+- Make every badge fully clickable.
+- Use official brand colors and logos.
+- Maintain a premium, clean, developer-style GitHub profile.
+- Do not modify any other section of the README. Only add this new "Connect With Me" section below my "Tools & Technologies" section.
+- Return only the final Markdown code ready to paste into my GitHub README.
 
 ## 🎯 Current Goals
 
