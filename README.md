@@ -27,6 +27,14 @@
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-6A1B9A?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/Object_Oriented_Programming-FF9800?style=for-the-badge)
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-4CAF50?style=for-the-badge)
+Keep the same design style as the existing skill badges. Create three new rectangular skill boxes with the same size, font, spacing, border, shadow, and glossy gradient effect. Match the existing professional GitHub README theme perfectly.
+
+New Skill Badges:
+🎬 VIDEO EDITING (Red Gradient)
+🖼️ PHOTO EDITING (Cyan/Blue Gradient)
+🎨 UI/UX DESIGN (Purple Gradient)
+
+Ensure all three badges are aligned with the existing skills, have consistent typography (bold uppercase white text), equal height, equal padding, rounded corners, and the same premium modern look. Make them blend seamlessly so they appear as part of the original GitHub Skills section.
 
 </p>
 
